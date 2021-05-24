@@ -4,3 +4,5 @@ It is second joke.
 
 Branch1 --
 	It is first joke of branch1.
+
+	It is second joke of branch1.
